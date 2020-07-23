@@ -4,7 +4,6 @@ huepy==0.9.8.1
 requests==2.21.0
 tldextract==2.2.2
 mutagen==1.41.1
-paramiko>=2.4.2
 pefile==2019.4.18
 mp3_tagger==1.0
 Pillow==7.2.0
@@ -12,7 +11,6 @@ ipwhois==1.1.0
 PyPDF2==1.26.0
 dnspython==1.15.0
 python-nmap==0.6.1
-shodan==1.10.4
 google==2.0.1
 requests==2.21.0
 huepy==0.9.8.1
@@ -22,3 +20,5 @@ PyPDF2==1.26.0
 dnspython==1.16.0
 nmap==0.0.1
 ruamel.yaml==0.15.88
+shodan==1.23.0
+paramiko>=2.4.2
