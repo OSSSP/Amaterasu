@@ -2,7 +2,7 @@ huepy==0.9.8.1
 requests==2.21.0
 tldextract==2.2.0
 mutagen==1.41.1
-pefile==2017.11.5
+pefile==2019.4.18
 mp3_tagger==1.0
 ipwhois==0.10.3
 Pillow==6.2.3
