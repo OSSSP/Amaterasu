@@ -3,7 +3,7 @@ whois==0.7
 huepy==0.9.8.1
 requests==2.21.0
 tldextract==2.2.2
-mutagen==1.41.1
+mutagen==1.45.0
 pefile==2019.4.18
 mp3_tagger==1.0
 Pillow==7.2.0
