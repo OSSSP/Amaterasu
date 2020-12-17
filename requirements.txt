@@ -1,6 +1,6 @@
 mp3_tagger==1.0
 whois==0.7
-huepy==0.9.8.1
+huepy==1.2.1
 requests==2.25.1
 tldextract==2.2.2
 mutagen==1.41.1
@@ -12,7 +12,7 @@ PyPDF2==1.26.0
 python-nmap==0.6.1
 google==2.0.1
 requests==2.25.1
-huepy==0.9.8.1
+huepy==1.2.1
 fake_useragent==0.1.11
 PyPDF2==1.26.0
 dnspython==1.16.0
