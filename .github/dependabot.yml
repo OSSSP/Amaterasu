@@ -1,0 +1,20 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: whois
+    versions:
+    - 0.9.10
+    - 0.9.7
+    - 0.9.8
+    - 0.9.9
+  - dependency-name: ruamel-yaml
+    versions:
+    - 0.16.12
+    - 0.16.13
+    - 0.17.0
+    - 0.17.2
