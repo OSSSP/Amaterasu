@@ -13,7 +13,7 @@ python-nmap==0.6.1
 google==2.0.1
 requests==2.25.1
 huepy==0.9.8.1
-fake_useragent==0.1.11
+fake-useragent==1.1.1
 PyPDF2==2.10.6
 dnspython==1.16.0
 nmap==0.0.1
