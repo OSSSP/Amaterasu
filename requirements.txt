@@ -6,7 +6,7 @@ tldextract==2.2.2
 mutagen==1.41.1
 pefile==2019.4.18
 mp3_tagger==1.0
-Pillow==9.3.0
+Pillow==10.3.0
 ipwhois==1.1.0
 PyPDF2==2.10.6
 python-nmap==0.6.1
@@ -22,5 +22,6 @@ shodan==1.23.0
 paramiko>=2.4.2
 pwntools
 pip>=19.2 # not directly required, pinned by Snyk to avoid a vulnerability
-urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
